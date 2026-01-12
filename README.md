@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm a Coding Enthusiast
 
-<!--
-**Cool-Human/Cool-Human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Fresher in the world of coding**  
+I’m currently exploring different domains and technologies, learning step by step, and building my foundation in programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Beginner / Fresher in coding  
+- 🔍 Exploring new technologies and domains  
+- 💡 Curious, motivated, and eager to learn  
+- 🛠️ Learning by building small projects and practicing regularly  
+
+---
+
+## 🧠 Currently Learning
+- Programming fundamentals  
+- Problem solving & logic building  
+- Exploring different tech stacks to find my interests  
+
+---
+
+## 📌 Goals
+- Improve my coding skills every day  
+- Contribute to open-source projects in the future  
+- Build meaningful and practical projects  
+
+---
+
+## 🤝 Let’s Connect
+- 💬 Open to learning, collaboration, and guidance  
+- 🌟 Always excited to grow and improve  
+
+---
+
+⭐ *Thanks for visiting my profile!*
