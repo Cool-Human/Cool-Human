@@ -1,36 +1,62 @@
-# Hi there 👋 I'm a Coding Enthusiast
+# 👋 Hi there, I'm [Your Name]
 
-🌱 **Fresher in the world of coding**  
-I’m currently exploring different domains and technologies, learning step by step, and building my foundation in programming.
+🎯 **Aspiring Software Engineer | AI/ML & Automation Enthusiast**
 
 ---
 
 ## 🚀 About Me
-- 🎓 Beginner / Fresher in coding  
-- 🔍 Exploring new technologies and domains  
-- 💡 Curious, motivated, and eager to learn  
-- 🛠️ Learning by building small projects and practicing regularly  
+I'm an aspiring software engineer passionate about building intelligent systems and automating real-world workflows. I enjoy working at the intersection of **Machine Learning, Computer Vision, and automation**.
+
+- 🤖 Interested in: AI-driven applications & automation systems  
+- ⚡ I enjoy creating tools that reduce manual effort and improve efficiency  
+- 🌱 Currently learning: Advanced Machine Learning & system design  
+- 🔍 Exploring: Agentic AI and real-world deployment  
 
 ---
 
-## 🧠 Currently Learning
-- Programming fundamentals  
-- Problem solving & logic building  
-- Exploring different tech stacks to find my interests  
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+- Python 🐍  
+- JavaScript  
+- HTML & CSS  
 
 ---
 
-## 📌 Goals
-- Improve my coding skills every day  
-- Contribute to open-source projects in the future  
-- Build meaningful and practical projects  
+### 🤖 AI / Machine Learning
+- Machine Learning (Model Training & Evaluation)  
+- Natural Language Processing (NLP)  
+- Computer Vision  
 
 ---
 
-## 🤝 Let’s Connect
-- 💬 Open to learning, collaboration, and guidance  
-- 🌟 Always excited to grow and improve  
+### ⚙️ Tools & Frameworks
+- TensorFlow  
+- Keras  
+- Scikit-learn  
+- OpenCV  
+- NumPy  
+- Pandas  
+- Git & GitHub  
+- Agentic AI (OpenClaw)  
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🧑‍💻 GitHub: https://github.com/your-username  
+
+---
+
+## ⚡ Focus
+Currently focused on strengthening my problem-solving skills and building intelligent, automated systems using AI.
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
