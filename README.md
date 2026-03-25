@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Hari Sharan!
 
 🎯 **Aspiring Software Engineer | AI/ML & Automation Enthusiast**
 
