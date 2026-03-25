@@ -40,9 +40,9 @@ I'm an aspiring software engineer passionate about building intelligent systems 
 - Git & GitHub  
 - Agentic AI (OpenClaw)  
 
+<!--
 ---
 
-<!--
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true)
 -->
@@ -50,9 +50,8 @@ I'm an aspiring software engineer passionate about building intelligent systems 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🧑‍💻 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://linkedin.com/in/hari--sharan  
+- 🧑‍💻 GitHub: https://github.com/Cool-Human  
 
 ---
 
