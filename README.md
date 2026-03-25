@@ -42,8 +42,10 @@ I'm an aspiring software engineer passionate about building intelligent systems 
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true)
+-->
 
 ---
 
