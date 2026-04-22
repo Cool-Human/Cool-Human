@@ -1,63 +1,85 @@
-# 👋 Hi there, I'm Hari Sharan!
+<h1 align="center">Hi, I'm Hari Sharan 👋</h1>
 
-🎯 **Aspiring Software Engineer | AI/ML & Automation Enthusiast**
+<p align="center">
+  <b>Civil Engineer turned Software Developer</b> &nbsp;|&nbsp; Python &nbsp;|&nbsp; ML &nbsp;|&nbsp; NLP &nbsp;|&nbsp; Computer Vision
+</p>
 
----
-
-## 🚀 About Me
-I'm an aspiring software engineer passionate about building intelligent systems and automating real-world workflows. I enjoy working at the intersection of **Machine Learning, Computer Vision, and automation**.
-
-- 🤖 Interested in: AI-driven applications & automation systems  
-- ⚡ I enjoy creating tools that reduce manual effort and improve efficiency  
-- 🌱 Currently learning: Advanced Machine Learning & system design  
-- 🔍 Exploring: Agentic AI and real-world deployment  
-
----
-
-## 🧠 Skills & Technologies
-
-### 💻 Programming Languages
-- Python 🐍  
-- JavaScript  
-- HTML & CSS  
+<p align="center">
+  <a href="https://linkedin.com/in/hari--sharan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Cool-Human">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### 🤖 AI / Machine Learning
-- Machine Learning (Model Training & Evaluation)  
-- Natural Language Processing (NLP)  
-- Computer Vision  
+## About Me
+
+I'm a Civil Engineering graduate from **NIT Karnataka (2025)**, currently working as an Assistant Design Engineer while actively transitioning into software development and AI/ML.
+
+I build Python-based tools at the intersection of **data analysis, NLP, and computer vision** — focused on turning real-world problems into automated, measurable solutions.
+
+- 🔭 Currently working on: DSA, backend development with Python
+- 🌱 Learning: FastAPI, SQL, system design
+- 🎯 Open to: Software Developer, Data Analyst, and Fintech roles
+- 📍 Based in India
 
 ---
 
-### ⚙️ Tools & Frameworks
-- TensorFlow  
-- Keras  
-- Scikit-learn  
-- OpenCV  
-- NumPy  
-- Pandas  
-- Git & GitHub  
-- Agentic AI (OpenClaw)  
+## Projects
 
-<!--
----
+### 🔍 [Quantitative Sentiment Mapping of Web-Based Essays](https://github.com/Cool-Human/Quantitative-Sentiment-Mapping-of-Web-Based-Essays)
+An end-to-end NLP pipeline that scrapes web articles, runs dictionary-based sentiment analysis, and computes 14 readability and linguistic metrics — outputting structured results to Excel.
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true)
--->
+**Stack:** Python, BeautifulSoup, NLTK, Pandas, OpenPyXL  
+**Highlights:** Processes multiple URLs from Excel input · 2,006 positive / 4,783 negative word dictionary · Fog Index, polarity, subjectivity, syllable metrics · Robust error handling and stop word filtering
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/hari--sharan  
-- 🧑‍💻 GitHub: https://github.com/Cool-Human  
+### 👤 [Face ID Detection System](https://github.com/Cool-Human/Face-ID-Detection-System)
+A real-time face detection system built in three progressively optimised versions — from classical Haar cascades to a multithreaded YuNET DNN model with GPU support.
+
+**Stack:** Python, OpenCV, YuNET (ONNX), Multithreading  
+**Highlights:** Three implementations (Haar → YuNET → Optimised YuNET) · Facial landmark detection (5 points) · CUDA GPU acceleration support · Live FPS and face count overlay
 
 ---
 
-## ⚡ Focus
-Currently focused on strengthening my problem-solving skills and building intelligent, automated systems using AI.
+## Skills
+
+**Languages**
+&nbsp; Python &nbsp;·&nbsp; SQL (learning) &nbsp;·&nbsp; HTML/CSS (basics)
+
+**ML / Data**
+&nbsp; Scikit-learn &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; Keras &nbsp;·&nbsp; NLTK &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; NumPy
+
+**Tools**
+&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; macOS CLI &nbsp;·&nbsp; Jupyter Notebooks
+
+**Currently learning**
+&nbsp; FastAPI &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker basics &nbsp;·&nbsp; DSA (LeetCode)
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true&hide_border=true&theme=default&count_private=true" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cool-Human&layout=compact&hide_border=true&theme=default" height="150"/>
+</p>
+
+---
+
+## Let's Connect
+
+I'm actively looking for opportunities in **software development, data analytics, and fintech engineering**.  
+If you're hiring or want to collaborate, reach out on [LinkedIn](https://linkedin.com/in/hari--sharan) — I'd love to chat.
+
+---
+
+<p align="center">
+  <i>NITK '25 · Civil Engineering → Software Development · Always building, always learning</i>
+</p>
