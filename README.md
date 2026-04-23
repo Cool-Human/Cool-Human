@@ -75,7 +75,7 @@ A real-time face detection system built in three progressively optimised version
 
 ## Let's Connect
 
-I'm actively looking for opportunities in **software development, data analytics, and fintech engineering**.  
+I'm actively looking for opportunities in **software development, data analytics, data scientist, and fintech engineering**.  
 If you're hiring or want to collaborate, reach out on [LinkedIn](https://linkedin.com/in/hari--sharan) — I'd love to chat.
 
 ---
