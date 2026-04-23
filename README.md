@@ -24,7 +24,7 @@ I build Python-based tools at the intersection of **data analysis, NLP, and comp
 
 - 🔭 Currently working on: DSA, backend development with Python
 - 🌱 Learning: FastAPI, SQL, system design
-- 🎯 Open to: Software Developer, Data Analyst, and Fintech roles
+- 🎯 Open to: Software Developer, Data Analyst, Data Scientist, and Fintech roles
 - 📍 Based in India
 
 ---
