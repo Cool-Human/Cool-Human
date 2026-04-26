@@ -81,5 +81,5 @@ If you're hiring or want to collaborate, reach out on [LinkedIn](https://linkedi
 ---
 
 <p align="center">
-  <i>NITK '25 · Civil Engineering → Software Development · Always building, always learning</i>
+  <i>NITK '25 · Civil Engineering → Software Development · Always building, always learning!</i>
 </p>
