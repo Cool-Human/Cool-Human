@@ -1,33 +1,35 @@
 <h1 align="center">Hi, I'm Hari Sharan 👋</h1>
 
 <p align="center">
-  <b>Civil Engineer turned Software Developer</b> &nbsp;|&nbsp; Python &nbsp;|&nbsp; ML &nbsp;|&nbsp; NLP &nbsp;|&nbsp; Computer Vision
+  <em>Aspiring Software Engineer &nbsp;·&nbsp; AI/ML & Automation Enthusiast</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hari--sharan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://github.com/Cool-Human">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cool-Human&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm a Civil Engineering graduate from **NIT Karnataka (2025)**, currently working as an Assistant Design Engineer while actively transitioning into software development and AI/ML.
+I'm an aspiring software engineer with a passion for building intelligent systems that solve real-world problems. My work sits at the intersection of **Machine Learning**, **Computer Vision**, and **workflow automation** — with a growing focus on agentic AI systems.
 
-I build Python-based tools at the intersection of **data analysis, NLP, and computer vision** — focused on turning real-world problems into automated, measurable solutions.
-
-- 🔭 Currently working on: DSA, backend development with Python
-- 🌱 Learning: FastAPI, SQL, system design
-- 🎯 Open to: Software Developer, Data Analyst, Data Scientist, and Fintech roles
-- 📍 Based in India
+- 🤖 &nbsp;Interested in AI-driven applications and intelligent automation
+- 🌱 &nbsp;Currently deepening my knowledge in advanced ML and system design
+- 🔍 &nbsp;Exploring agentic AI architectures and real-world deployment pipelines
+- ⚡ &nbsp;I enjoy crafting tools that reduce manual effort and improve efficiency
 
 ---
+
 
 ## Projects
 
@@ -47,39 +49,55 @@ A real-time face detection system built in three progressively optimised version
 
 ---
 
-## Skills
+## Skills & Technologies
 
-**Languages**
-&nbsp; Python &nbsp;·&nbsp; SQL (learning) &nbsp;·&nbsp; HTML/CSS (basics)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-**ML / Data**
-&nbsp; Scikit-learn &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; Keras &nbsp;·&nbsp; NLTK &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; NumPy
+### AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
 
-**Tools**
-&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; macOS CLI &nbsp;·&nbsp; Jupyter Notebooks
+**Domains:** Machine Learning · Natural Language Processing · Computer Vision · Agentic AI
 
-**Currently learning**
-&nbsp; FastAPI &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker basics &nbsp;·&nbsp; DSA (LeetCode)
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSTAAD-0078A0?style=flat-square&logoColor=white"/>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true&hide_border=true&theme=default&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cool-Human&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cool-Human&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cool-Human&layout=donut&theme=tokyonight&hide_border=true" height="200" alt="Top Languages"/>
 </p>
-
----
-
-## Let's Connect
-
-I'm actively looking for opportunities in **software development, data analytics, data scientist, and fintech engineering**.  
-If you're hiring or want to collaborate, reach out on [LinkedIn](https://linkedin.com/in/hari--sharan) — I'd love to chat.
-
----
 
 <p align="center">
-  <i>NITK '25 · Civil Engineering → Software Development · Always Building, Always Learning!</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cool-Human&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
+
+## Current Focus
+
+> Building intelligent, automated systems using AI — with an emphasis on practical deployment and real-world impact.
+
+---
+
+<p align="center"><em>Always learning. Always building. Always improving.</em></p>
