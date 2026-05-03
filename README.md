@@ -96,7 +96,7 @@ A real-time face detection system built in three progressively optimised version
 
 ## Current Focus
 
-> Building intelligent, automated systems using AI — with an emphasis on practical deployment and real-world impact.
+> Building intelligent, automated systems using AI — with an emphasis on practical deployment and real-world impact!
 
 ---
 
